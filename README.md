@@ -1,2 +1,0 @@
-# kanimiso
-dice
